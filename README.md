@@ -26,9 +26,9 @@ app.use(DialogForm)
 <ad-form .../>
 ```
 
-### 使用说明文档[点击打开链接](https://fe-hl.gitee.io/admin-design-vue/document/)
+### 使用说明文档[点击打开链接](https://fe-hl.github.io/document/)
 
 ```js
-https://fe-hl.gitee.io/admin-design-vue/document/
+https://fe-hl.github.io/document/
 ```
 
